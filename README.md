@@ -1,5 +1,5 @@
 # newsletter-singup-v.1
-Template : Singing up to my Newsletter
+Template : Signup to my Newsletter
 
 
 # Screenshot
