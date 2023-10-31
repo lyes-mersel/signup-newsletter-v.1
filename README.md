@@ -9,6 +9,7 @@ Template : Signup to my Newsletter
 # Build with
 - HTML5 / CSS3
 - Bootstrap v5.3
+- JavaScript
 - Node.js
 - Express
 - EJS
